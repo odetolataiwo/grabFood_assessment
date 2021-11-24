@@ -11,5 +11,5 @@ To run the code,
 - the path of the exported json file is `cypress/fixtures/results.json`
 - 
 
-Find the extracted data [here](https://github.com/odetolataiwo/grabFood_assessment/blob/main/restuarants.json).
+Find the sample of the extracted data [here](https://github.com/odetolataiwo/grabFood_assessment/blob/main/restuarants.json).
 Also, a video that shows my cmplete run is shown [here](https://drive.google.com/file/d/1FpaG8AsYZO4Sp0OV6XH7GHTckRkfEijc/view?usp=sharing).
