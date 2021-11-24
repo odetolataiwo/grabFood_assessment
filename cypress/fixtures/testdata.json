@@ -1,0 +1,577 @@
+{
+  "name": "24 Chicken",
+  "coordinates": {
+    "latitude": 14.599993593888414,
+    "longitude": 120.9906229630875
+  }
+}{
+  "name": "Army Navy Burger + Burrito",
+  "coordinates": {
+    "latitude": 14.6115019,
+    "longitude": 120.9880575
+  }
+}{
+  "name": "Subway",
+  "coordinates": {
+    "latitude": 14.610537908571429,
+    "longitude": 120.9902518
+  }
+}{
+  "name": "Yellow Cab Pizza",
+  "coordinates": {
+    "latitude": 14.6094796,
+    "longitude": 120.992802
+  }
+}{
+  "name": "Samgyeop Masarap Unlimited Korean BBQ",
+  "coordinates": {
+    "latitude": 14.5900407,
+    "longitude": 120.9825423
+  }
+}{
+  "name": "Kenny Rogers Roasters",
+  "coordinates": {
+    "latitude": 14.590071329999999,
+    "longitude": 120.9836955
+  }
+}{
+  "name": "Wai Ying Fastfood",
+  "coordinates": {
+    "latitude": 14.602068853150598,
+    "longitude": 120.97598854230432
+  }
+}{
+  "name": "Dadudz Unli Wings",
+  "coordinates": {
+    "latitude": 14.60562305,
+    "longitude": 120.988576
+  }
+}{
+  "name": "Tokyo Tokyo",
+  "coordinates": {
+    "latitude": 14.6014757,
+    "longitude": 120.9926647
+  }
+}{
+  "name": "Pepper Lunch Express",
+  "coordinates": {
+    "latitude": 14.6029055,
+    "longitude": 120.9738317
+  }
+}{
+  "name": "Happilee Korean Kitchen",
+  "coordinates": {
+    "latitude": 14.6143448,
+    "longitude": 120.9925752
+  }
+}{
+  "name": "Pizza Hut",
+  "coordinates": {
+    "latitude": 14.6022463,
+    "longitude": 120.98692623157895
+  }
+}{
+  "name": "Conti's Bakeshop",
+  "coordinates": {
+    "latitude": 14.60304336978875,
+    "longitude": 120.97393467043344
+  }
+}{
+  "name": "Classic Savory",
+  "coordinates": {
+    "latitude": 14.590010225,
+    "longitude": 120.98377966666668
+  }
+}{
+  "name": "David's Tea House",
+  "coordinates": {
+    "latitude": 14.60081561,
+    "longitude": 120.9792872
+  }
+}{
+  "name": "CoCo Fresh Tea & Juice",
+  "coordinates": {
+    "latitude": 14.603578109063434,
+    "longitude": 120.97354714971823
+  }
+}{
+  "name": "Tokyo Tokyo",
+  "coordinates": {
+    "latitude": 14.6014757,
+    "longitude": 120.9926647
+  }
+}{
+  "name": "Pepper Lunch Express",
+  "coordinates": {
+    "latitude": 14.6029055,
+    "longitude": 120.9738317
+  }
+}{
+  "name": "Happilee Korean Kitchen",
+  "coordinates": {
+    "latitude": 14.6143448,
+    "longitude": 120.9925752
+  }
+}{
+  "name": "Pizza Hut",
+  "coordinates": {
+    "latitude": 14.6022463,
+    "longitude": 120.98692623157895
+  }
+}{
+  "name": "Conti's Bakeshop",
+  "coordinates": {
+    "latitude": 14.60304336978875,
+    "longitude": 120.97393467043344
+  }
+}{
+  "name": "Classic Savory",
+  "coordinates": {
+    "latitude": 14.590010225,
+    "longitude": 120.98377966666668
+  }
+}{
+  "name": "David's Tea House",
+  "coordinates": {
+    "latitude": 14.60081561,
+    "longitude": 120.9792872
+  }
+}{
+  "name": "CoCo Fresh Tea & Juice",
+  "coordinates": {
+    "latitude": 14.603578109063434,
+    "longitude": 120.97354714971823
+  }
+}{
+  "name": "Al Jograts",
+  "coordinates": {
+    "latitude": 14.6123178,
+    "longitude": 120.9880759076923
+  }
+}{
+  "name": "Hap Chan",
+  "coordinates": {
+    "latitude": 14.601413,
+    "longitude": 120.97967
+  }
+}{
+  "name": "GrabKitchen",
+  "coordinates": {
+    "latitude": 14.6143302,
+    "longitude": 120.9925804
+  }
+}{
+  "name": "Boodle Inasal x Happy Thirstday",
+  "coordinates": {
+    "latitude": 14.6071574,
+    "longitude": 120.9876869
+  }
+}{
+  "name": "Sincerity Cafe & Restaurant",
+  "coordinates": {
+    "latitude": 14.599068014727354,
+    "longitude": 120.975219818386
+  }
+}{
+  "name": "BonChon",
+  "coordinates": {
+    "latitude": 14.60313696,
+    "longitude": 120.9841308
+  }
+}{
+  "name": "Pho Hoa Vietnamese Noodle House",
+  "coordinates": {
+    "latitude": 14.6034077,
+    "longitude": 120.9734002
+  }
+}{
+  "name": "Tim Hortons",
+  "coordinates": {
+    "latitude": 14.599783433333334,
+    "longitude": 120.9915111
+  }
+}{
+  "name": "Big Al's Cookie Jar",
+  "coordinates": {
+    "latitude": 14.6143335,
+    "longitude": 120.9925847
+  }
+}{
+  "name": "Buffalo's Wings N' Things",
+  "coordinates": {
+    "latitude": 14.590007714285713,
+    "longitude": 120.9834563
+  }
+}{
+  "name": "Cara Mia Cakes & Gelato",
+  "coordinates": {
+    "latitude": 14.6033483,
+    "longitude": 120.97343623638153
+  }
+}{
+  "name": "King Chef",
+  "coordinates": {
+    "latitude": 14.6032502,
+    "longitude": 120.9733011475
+  }
+}{
+  "name": "Starbucks",
+  "coordinates": {
+    "latitude": 14.598539382002997,
+    "longitude": 120.97566239164144
+  }
+}{
+  "name": "Cafe Mary Grace",
+  "coordinates": {
+    "latitude": 14.590339,
+    "longitude": 120.983648
+  }
+}{
+  "name": "Greenwich",
+  "coordinates": {
+    "latitude": 14.602746018181817,
+    "longitude": 120.9844728
+  }
+}{
+  "name": "Tasty Dumplings",
+  "coordinates": {
+    "latitude": 14.600781147071501,
+    "longitude": 120.97484072883657
+  }
+}{
+  "name": "Big Scoop",
+  "coordinates": {
+    "latitude": 14.6117504,
+    "longitude": 120.9848649
+  }
+}{
+  "name": "Mister Kabab",
+  "coordinates": {
+    "latitude": 14.6143335,
+    "longitude": 120.9925847
+  }
+}{
+  "name": "Caution Bistro",
+  "coordinates": {
+    "latitude": 14.614305,
+    "longitude": 120.990737
+  }
+}{
+  "name": "Red Ribbon",
+  "coordinates": {
+    "latitude": 14.6030444,
+    "longitude": 120.9841955
+  }
+}{
+  "name": "Landers Central",
+  "coordinates": {
+    "latitude": 14.5901826,
+    "longitude": 120.9991979
+  }
+}{
+  "name": "Shakey's Pizza",
+  "coordinates": {
+    "latitude": 14.5898002,
+    "longitude": 120.9838989
+  }
+}{
+  "name": "Peri Peri Charchoal Chicken & Sauce Bar",
+  "coordinates": {
+    "latitude": 14.6071827,
+    "longitude": 120.9909651
+  }
+}{
+  "name": "Food House by Madla",
+  "coordinates": {
+    "latitude": 14.60785545410086,
+    "longitude": 120.99240166666665
+  }
+}{
+  "name": "Macao Imperial Tea",
+  "coordinates": {
+    "latitude": 14.590105442857142,
+    "longitude": 120.98310285
+  }
+}{
+  "name": "The Aristocrat Restaurant",
+  "coordinates": {
+    "latitude": 14.59033764,
+    "longitude": 120.9837502
+  }
+}{
+  "name": "Master Siomai",
+  "coordinates": {
+    "latitude": 14.61170187,
+    "longitude": 120.995198
+  }
+}{
+  "name": "Kuya J Restaurant",
+  "coordinates": {
+    "latitude": 14.590063,
+    "longitude": 120.9834672
+  }
+}{
+  "name": "Red Table",
+  "coordinates": {
+    "latitude": 14.590044222222222,
+    "longitude": 120.9827167
+  }
+}{
+  "name": "Cha Tuk Chak",
+  "coordinates": {
+    "latitude": 14.606833200000002,
+    "longitude": 120.97770568
+  }
+}{
+  "name": "Mann Hann",
+  "coordinates": {
+    "latitude": 14.6035815,
+    "longitude": 120.9737131
+  }
+}{
+  "name": "Tutong's Laksa",
+  "coordinates": {
+    "latitude": 14.6097879,
+    "longitude": 120.9862508
+  }
+}{
+  "name": "Omakase",
+  "coordinates": {
+    "latitude": 14.6143353,
+    "longitude": 120.9925847
+  }
+}{
+  "name": "Hong Kong Noodles & Dimsum House",
+  "coordinates": {
+    "latitude": 14.59921805,
+    "longitude": 120.9841343
+  }
+}{
+  "name": "Everything But Cheese",
+  "coordinates": {
+    "latitude": 14.59004388888889,
+    "longitude": 120.98259453333334
+  }
+}{
+  "name": "Boulangerie22",
+  "coordinates": {
+    "latitude": 14.6115292,
+    "longitude": 120.988101
+  }
+}{
+  "name": "Botejyu",
+  "coordinates": {
+    "latitude": 14.590276707715432,
+    "longitude": 120.9837920725854
+  }
+}{
+  "name": "ProJuice",
+  "coordinates": {
+    "latitude": 14.613154,
+    "longitude": 120.990576
+  }
+}{
+  "name": "Max's Restaurant",
+  "coordinates": {
+    "latitude": 14.590069533333333,
+    "longitude": 120.9837077
+  }
+}{
+  "name": "Razon's of Guagua",
+  "coordinates": {
+    "latitude": 14.589933733333332,
+    "longitude": 120.98377835000001
+  }
+}{
+  "name": "Gringo",
+  "coordinates": {
+    "latitude": 14.5899221,
+    "longitude": 120.9837879
+  }
+}{
+  "name": "Lucky House Restaurant",
+  "coordinates": {
+    "latitude": 14.60838526108968,
+    "longitude": 120.99385625011325
+  }
+}{
+  "name": "Chuan Kee Turo Turo",
+  "coordinates": {
+    "latitude": 14.60044895128205,
+    "longitude": 120.9755047
+  }
+}{
+  "name": "Bulalo World",
+  "coordinates": {
+    "latitude": 14.60283715,
+    "longitude": 120.9843469
+  }
+}{
+  "name": "Golden Fortune Seafood Restaurant",
+  "coordinates": {
+    "latitude": 14.603557,
+    "longitude": 120.97757
+  }
+}{
+  "name": "Gerry's Grill Restaurant & Bar",
+  "coordinates": {
+    "latitude": 14.5900457,
+    "longitude": 120.9826271
+  }
+}{
+  "name": "Rarjap Sushi House",
+  "coordinates": {
+    "latitude": 14.6122898,
+    "longitude": 120.9881811
+  }
+}{
+  "name": "Zagu",
+  "coordinates": {
+    "latitude": 14.599014971754528,
+    "longitude": 120.98156781349235
+  }
+}{
+  "name": "The Great Buddha Cafe",
+  "coordinates": {
+    "latitude": 14.600144125,
+    "longitude": 120.9751577
+  }
+}{
+  "name": "Savory Chicken PH",
+  "coordinates": {
+    "latitude": 14.610134884297521,
+    "longitude": 120.9797647
+  }
+}{
+  "name": "President Grand Palace Resturant",
+  "coordinates": {
+    "latitude": 14.601248470666576,
+    "longitude": 120.9763685423294
+  }
+}{
+  "name": "Mr. Ube Rice and Noodle Haus",
+  "coordinates": {
+    "latitude": 14.600840155867786,
+    "longitude": 120.97590531485673
+  }
+}{
+  "name": "Merienda by Pan de Manila",
+  "coordinates": {
+    "latitude": 14.61449502,
+    "longitude": 120.9924836
+  }
+}{
+  "name": "Cafe Perene",
+  "coordinates": {
+    "latitude": 14.6070714,
+    "longitude": 120.9783826
+  }
+}{
+  "name": "Gong Cha",
+  "coordinates": {
+    "latitude": 14.59035095,
+    "longitude": 120.9837783
+  }
+}{
+  "name": "Shi Lin",
+  "coordinates": {
+    "latitude": 14.6035728,
+    "longitude": 120.9736994
+  }
+}{
+  "name": "MAFS Delivery",
+  "coordinates": {
+    "latitude": 14.60169945,
+    "longitude": 120.9951903
+  }
+}{
+  "name": "Sio Cha 小吃",
+  "coordinates": {
+    "latitude": 14.6089106,
+    "longitude": 120.9790354
+  }
+}{
+  "name": "Mang Samgyupsal",
+  "coordinates": {
+    "latitude": 14.61208658,
+    "longitude": 120.98875808791666
+  }
+}{
+  "name": "Scorched Smokehouse",
+  "coordinates": {
+    "latitude": 14.590160382858116,
+    "longitude": 120.98297833862375
+  }
+}{
+  "name": "Joni's Grill",
+  "coordinates": {
+    "latitude": 14.6033922,
+    "longitude": 120.9907382
+  }
+}{
+  "name": "Tio Paengs",
+  "coordinates": {
+    "latitude": 14.6058478,
+    "longitude": 120.9909107
+  }
+}{
+  "name": "Pizza Telefono",
+  "coordinates": {
+    "latitude": 14.6143263,
+    "longitude": 120.9925842
+  }
+}{
+  "name": "Overdoughs and Elait!",
+  "coordinates": {
+    "latitude": 14.60425,
+    "longitude": 120.974368
+  }
+}{
+  "name": "Korean To Go",
+  "coordinates": {
+    "latitude": 14.611589261386001,
+    "longitude": 120.987806
+  }
+}{
+  "name": "Goldilocks",
+  "coordinates": {
+    "latitude": 14.6026551,
+    "longitude": 120.98473408
+  }
+}{
+  "name": "Ichiban1",
+  "coordinates": {
+    "latitude": 14.60338182,
+    "longitude": 120.9907405
+  }
+}{
+  "name": "Ilang-Ilang Restaurant",
+  "coordinates": {
+    "latitude": 14.600195081368781,
+    "longitude": 120.97153205224124
+  }
+}{
+  "name": "UCC Cafe Terrace",
+  "coordinates": {
+    "latitude": 14.60325422,
+    "longitude": 120.9732506
+  }
+}{
+  "name": "Grub King Enterprise",
+  "coordinates": {
+    "latitude": 14.5968285,
+    "longitude": 120.995275
+  }
+}{
+  "name": "Seoul Healthy!",
+  "coordinates": {
+    "latitude": 14.611589261386001,
+    "longitude": 120.987806
+  }
+}{
+  "name": "Burger Matsing",
+  "coordinates": {
+    "latitude": 14.6010151,
+    "longitude": 120.99158
+  }
+}
