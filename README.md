@@ -13,3 +13,5 @@ To run the code,
 
 Find the sample of the extracted data [here](https://github.com/odetolataiwo/grabFood_assessment/blob/main/restuarants.json).
 Also, a video that shows my cmplete run is shown [here](https://drive.google.com/file/d/1FpaG8AsYZO4Sp0OV6XH7GHTckRkfEijc/view?usp=sharing).
+
+[Here](https://github.com/odetolataiwo/grabFood_assessment/blob/main/cypress/integration/assignment.spec.js) is the exact code.
