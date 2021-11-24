@@ -29,16 +29,16 @@
     "longitude": 120.9825423
   }
 }{
-  "name": "Kenny Rogers Roasters",
-  "coordinates": {
-    "latitude": 14.590071329999999,
-    "longitude": 120.9836955
-  }
-}{
   "name": "Wai Ying Fastfood",
   "coordinates": {
     "latitude": 14.602068853150598,
     "longitude": 120.97598854230432
+  }
+}{
+  "name": "Kenny Rogers Roasters",
+  "coordinates": {
+    "latitude": 14.590071329999999,
+    "longitude": 120.9836955
   }
 }{
   "name": "Dadudz Unli Wings",
@@ -71,16 +71,16 @@
     "longitude": 120.98692623157895
   }
 }{
-  "name": "Conti's Bakeshop",
-  "coordinates": {
-    "latitude": 14.60304336978875,
-    "longitude": 120.97393467043344
-  }
-}{
   "name": "Classic Savory",
   "coordinates": {
     "latitude": 14.590010225,
     "longitude": 120.98377966666668
+  }
+}{
+  "name": "Conti's Bakeshop",
+  "coordinates": {
+    "latitude": 14.60304336978875,
+    "longitude": 120.97393467043344
   }
 }{
   "name": "David's Tea House",
@@ -119,16 +119,16 @@
     "longitude": 120.98692623157895
   }
 }{
-  "name": "Conti's Bakeshop",
-  "coordinates": {
-    "latitude": 14.60304336978875,
-    "longitude": 120.97393467043344
-  }
-}{
   "name": "Classic Savory",
   "coordinates": {
     "latitude": 14.590010225,
     "longitude": 120.98377966666668
+  }
+}{
+  "name": "Conti's Bakeshop",
+  "coordinates": {
+    "latitude": 14.60304336978875,
+    "longitude": 120.97393467043344
   }
 }{
   "name": "David's Tea House",
@@ -167,12 +167,6 @@
     "longitude": 120.9876869
   }
 }{
-  "name": "Sincerity Cafe & Restaurant",
-  "coordinates": {
-    "latitude": 14.599068014727354,
-    "longitude": 120.975219818386
-  }
-}{
   "name": "BonChon",
   "coordinates": {
     "latitude": 14.60313696,
@@ -185,16 +179,22 @@
     "longitude": 120.9734002
   }
 }{
-  "name": "Tim Hortons",
+  "name": "Sincerity Cafe & Restaurant",
   "coordinates": {
-    "latitude": 14.599783433333334,
-    "longitude": 120.9915111
+    "latitude": 14.6036143,
+    "longitude": 120.9734382
   }
 }{
   "name": "Big Al's Cookie Jar",
   "coordinates": {
     "latitude": 14.6143335,
     "longitude": 120.9925847
+  }
+}{
+  "name": "Tim Hortons",
+  "coordinates": {
+    "latitude": 14.599783433333334,
+    "longitude": 120.9915111
   }
 }{
   "name": "Buffalo's Wings N' Things",
@@ -231,12 +231,6 @@
   "coordinates": {
     "latitude": 14.602746018181817,
     "longitude": 120.9844728
-  }
-}{
-  "name": "Tasty Dumplings",
-  "coordinates": {
-    "latitude": 14.600781147071501,
-    "longitude": 120.97484072883657
   }
 }{
   "name": "Big Scoop",
@@ -281,16 +275,16 @@
     "longitude": 120.9909651
   }
 }{
-  "name": "Food House by Madla",
-  "coordinates": {
-    "latitude": 14.60785545410086,
-    "longitude": 120.99240166666665
-  }
-}{
   "name": "Macao Imperial Tea",
   "coordinates": {
     "latitude": 14.590105442857142,
     "longitude": 120.98310285
+  }
+}{
+  "name": "Food House by Madla",
+  "coordinates": {
+    "latitude": 14.60785545410086,
+    "longitude": 120.99240166666665
   }
 }{
   "name": "The Aristocrat Restaurant",
@@ -311,6 +305,12 @@
     "longitude": 120.9834672
   }
 }{
+  "name": "Kanzen Sushi Roll",
+  "coordinates": {
+    "latitude": 14.6097302,
+    "longitude": 120.9866011
+  }
+}{
   "name": "Red Table",
   "coordinates": {
     "latitude": 14.590044222222222,
@@ -323,22 +323,16 @@
     "longitude": 120.97770568
   }
 }{
-  "name": "Mann Hann",
-  "coordinates": {
-    "latitude": 14.6035815,
-    "longitude": 120.9737131
-  }
-}{
   "name": "Tutong's Laksa",
   "coordinates": {
     "latitude": 14.6097879,
     "longitude": 120.9862508
   }
 }{
-  "name": "Omakase",
+  "name": "Mann Hann",
   "coordinates": {
-    "latitude": 14.6143353,
-    "longitude": 120.9925847
+    "latitude": 14.6035815,
+    "longitude": 120.9737131
   }
 }{
   "name": "Hong Kong Noodles & Dimsum House",
@@ -351,6 +345,12 @@
   "coordinates": {
     "latitude": 14.59004388888889,
     "longitude": 120.98259453333334
+  }
+}{
+  "name": "Omakase",
+  "coordinates": {
+    "latitude": 14.6143353,
+    "longitude": 120.9925847
   }
 }{
   "name": "Boulangerie22",
@@ -419,6 +419,12 @@
     "longitude": 120.9826271
   }
 }{
+  "name": "Hideout Tea and Coffee House",
+  "coordinates": {
+    "latitude": 14.612301145437982,
+    "longitude": 120.98814000000175
+  }
+}{
   "name": "Rarjap Sushi House",
   "coordinates": {
     "latitude": 14.6122898,
@@ -455,16 +461,16 @@
     "longitude": 120.97590531485673
   }
 }{
+  "name": "Banh Mi Kitchen",
+  "coordinates": {
+    "latitude": 14.602976606493506,
+    "longitude": 120.97380089999999
+  }
+}{
   "name": "Merienda by Pan de Manila",
   "coordinates": {
     "latitude": 14.61449502,
     "longitude": 120.9924836
-  }
-}{
-  "name": "Cafe Perene",
-  "coordinates": {
-    "latitude": 14.6070714,
-    "longitude": 120.9783826
   }
 }{
   "name": "Gong Cha",
@@ -483,12 +489,6 @@
   "coordinates": {
     "latitude": 14.60169945,
     "longitude": 120.9951903
-  }
-}{
-  "name": "Sio Cha 小吃",
-  "coordinates": {
-    "latitude": 14.6089106,
-    "longitude": 120.9790354
   }
 }{
   "name": "Mang Samgyupsal",

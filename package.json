@@ -1,0 +1,27 @@
+{
+  "name": "grabfoods",
+  "version": "1.0.0",
+  "description": "assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odetolataiwo/grabFood_assessment.git"
+  },
+  "keywords": [
+    "cypress",
+    "web",
+    "scraping"
+  ],
+  "author": "Taiwo O",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odetolataiwo/grabFood_assessment/issues"
+  },
+  "homepage": "https://github.com/odetolataiwo/grabFood_assessment#readme",
+  "devDependencies": {
+    "cypress-xpath": "^1.6.2"
+  }
+}
